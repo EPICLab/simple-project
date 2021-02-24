@@ -1,5 +1,5 @@
 function addNumbers(a: number, b: number) {
-  return a + b;
+  return a + b + c;
 }
 
 let sum: number = addNumbers(10, 15);
